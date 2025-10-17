@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chaitanya  
+# 👋 Hi, I'm Chaitanya Welcome to my Profile 
 
 💼 **Accounting & Finance Professional | Data Analytics Enthusiast**  
 
@@ -19,13 +19,14 @@ I combine my **finance expertise** with **data analytics tools** like **Excel, S
 |--------------------------|------------------|----------------|
 | Bookkeeping & Ledgers | Data Cleaning & Transformation | Excel (Advanced) |
 | Taxation & GST | Data Modeling & Visualization | Power BI |
-| Auditing & Compliance | SQL Queries & Reports | SQL Server / MySQL |
+| Auditing & Compliance | SQL Queries & Reports | SQL Server / MySQL / Postgre SQL |
 
 ---
 
 ## 📊 Featured Projects  
-🔹 **HR Employee Attrition Analysis (Excel Dashboard)**  
-> Analyzed employee data to uncover attrition patterns using pivot tables and visual dashboards.  
+🔹 **Supermarket Sales Interactive Dashboard (Excel)**  
+> The dashboard provides a comprehensive view of sales performance, customer behavior, and revenue trends across different product lines and branches.
+The goal is to help supermarket management quickly analyze key metrics and make data-driven business decisions — all within Excel.  
 
 🔹 **Sales Performance Dashboard (Power BI)**  
 > Built an interactive dashboard to monitor sales trends and business KPIs.  
@@ -39,12 +40,11 @@ I combine my **finance expertise** with **data analytics tools** like **Excel, S
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning  
-📘 Python for Data Analytics  
+📘 SQL and Advanced Excel for Data Analytics  
 📗 Advanced Power BI (DAX, Data Modeling)  
 
 ---
