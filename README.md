@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaitanya Welcome to my Profile 
 
-💼 **Accounting & Finance Professional | Data Analytics Enthusiast**  
+💼 **Accounting & Finance Professional | Data Analytics, MIS, PowerBI Enthusiast**  
 
 I’m an accounting and finance professional with hands-on experience in **accounting, auditing, taxation, and GST compliance**.  
 I combine my **finance expertise** with **data analytics tools** like **Excel, SQL, and Power BI** to uncover insights and drive smarter business decisions.  
