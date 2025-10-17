@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chaitanya Welcome to my Profile 
+# 👋 Hi, I'm Chaitanya Hegde Welcome to my Profile 
 
 💼 **Accounting & Finance Professional | Business Analytics, MIS, PowerBI Enthusiast**  
 
