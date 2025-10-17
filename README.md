@@ -10,7 +10,7 @@ I combine my **finance expertise** with **data analytics tools** like **Excel, S
 ## 🧠 About Me  
 🎯 Passionate about accuracy, compliance, and using data to create business value.  
 📊 Experienced in financial reporting, audit support, and data-driven analysis.  
-🚀 Constantly learning and upskilling in **Python for Data Analytics** and **Advanced Power BI**.  
+🚀 Constantly learning and upskilling in **SQL, Advance Excel for Data Analytics** and **Advanced Power BI**.  
 
 ---
 
