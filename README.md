@@ -53,6 +53,10 @@ The goal is to help supermarket management quickly analyze key metrics and make 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-hegde-8a6363288)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhchaitanya003@gmail.com)
 
+---  
+
+⭐ *"Combining finance expertise with analytics to create data-driven business value."*
+
 ---
 
 ## 📈 GitHub Stats  
@@ -61,5 +65,4 @@ The goal is to help supermarket management quickly analyze key metrics and make 
 
 ---
 
-⭐ *"Combining finance expertise with analytics to create data-driven business value."*
 
